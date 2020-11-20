@@ -1,5 +1,5 @@
 /**
- * Add two numbers together
+ * Encontrar el numreo mayor
  * @param  {Array} arr Arreglo de numeros
  * @return {Number}   El numero mayor
  */
