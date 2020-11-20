@@ -37,11 +37,14 @@ var arr = [
     { id: NaN },
     { id: 'undefined' }
   ];
+
+  console.log('Data Principal\n', arr);
   
   var entradasInvalidas = 0;
   // Si el elemento tiene un atributo id, y su valor correspondiente es un numero
   // Y no es el valor NaN, entonces es una entrada válida
-  /** @function filtrarPorID */
+  /** @function 
+   * @name filtrarPorID */
   function filtrarPorID(obj) {
     if ('id' in obj && typeof(obj.id) === 'number' && !isNaN(obj.id)) {
       return true;
