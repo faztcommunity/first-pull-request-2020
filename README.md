@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Un reto simple
 **NOTA**: Anteriormente este repositorio fue abierto para incorporar gente a un proyecto. <br>
 Actualmente se encuentra abierto a todo aquel que quiera intentar el ejercicio. 
@@ -44,3 +45,5 @@ Es importante tener valentía e independencia para realizar las contribuciones, 
 *Nota: No es necesario seguir formalidades, hacelo con tu estilo y como te guste. Solo asegurate de cumplir los pasos.*
 
 *\*usa `Resolves [url de tu issue]` en la descripción de tu pullrequest para linkear el issue a éste.*
+=======
+
