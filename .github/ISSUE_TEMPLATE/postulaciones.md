@@ -1,10 +1,10 @@
 ---
-name: Postulaciones
+name: Postulante
 about: Si vas a participar, usa esta plantilla.
-title: Soy [tu username de discord]
+title: Soy [Thekingwars#6004]
 labels: ''
 assignees: ''
 
 ---
 
-Yo elegí el método: [nombre del método]
+Yo elegí el método: [charAt and slice]
