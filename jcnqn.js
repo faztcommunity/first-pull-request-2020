@@ -15,6 +15,6 @@ function promedio(arrayNumeros) {
     );
     return resultado / arrayNumeros.length;
   } else {
-    return 'El array ingresado debe tener al menos un parámetro';
+    return 'El array ingresado debe tener al menos un dígito';
   }
 }
