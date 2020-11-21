@@ -1,5 +1,5 @@
 ---
-name: Postulaciones
+name: Postulante
 about: Si vas a participar, usa esta plantilla.
 title: Soy [Thekingwars#6004]
 labels: ''
